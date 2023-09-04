@@ -45,4 +45,4 @@ Esse projeto está sob a licença MIT.
 
 ---
 
-Desenvolvido por Jarles Sayhare :wave: [Participe da nossa comunidade!](https://discord.gg/rocketseat)
+Desenvolvido por Jarles Sayhare
