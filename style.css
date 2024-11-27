@@ -41,7 +41,7 @@ body * {
   padding: 0 24px;
 }
 
-/* profile */
+
 #profile {
   text-align: center;
   padding: 24px;
@@ -60,7 +60,7 @@ body * {
   margin-top: 8px;
 }
 
-/* switch */
+
 #switch {
   position: relative;
   width: 64px;
@@ -100,7 +100,7 @@ body * {
   border-radius: 9999px;
 }
 
-/* links */
+
 ul {
   list-style: none;
   display: flex;
@@ -124,13 +124,13 @@ ul li a {
   transition: background 0.2s;
 }
 
-/* pseudo-selector */
+
 ul li a:hover {
   background: var(--highlight-color);
   border: 1.5px solid var(--text-color);
 }
 
-/* social links */
+
 #social-links {
   display: flex;
   justify-content: center;
@@ -164,7 +164,7 @@ footer {
   margin: auto;
 }
 
-/* media queries */
+
 @media (min-width: 700px) {
   :root {
     --bg-url: url(./assets/bg-desktop.jpg);
@@ -175,7 +175,7 @@ footer {
   }
 }
 
-/* animation */
+
 @keyframes slide-in {
   from {
     left: 0;
